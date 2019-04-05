@@ -1,0 +1,11 @@
+
+*.ipch
+.vs/QGqueue/v15/.suo
+*.db
+*.ilk
+*.pdb
+*.obj
+*.tlog
+*.idb
+*.log
+*.exe
